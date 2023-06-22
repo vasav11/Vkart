@@ -684,11 +684,33 @@ footer .copyright{
   height:200px;
   object-fit: cover;
 }
+  #blog img{
+  width:150%;
+  height:200px;
+  object-fit: cover;
+}
+#blog .img2{
+ width:65%;
+ height:200px;
+}
+#blog .img3{
+  width:130%;
+}
+#blog .img4{
+  width:160%;
+
 #blog .blog-details{
   width: 50%;
 }
 #blog .blog-details .pad{
 padding-left: 150px;
+}
+ 
+#blog .blog-details .pad2{
+  margin-left: -57px;
+}
+#blog .blog-details .pad4{
+  margin-left: 200px;
 }
 #blog .blog-details a{
 text-decoration: none;
