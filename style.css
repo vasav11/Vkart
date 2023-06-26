@@ -924,9 +924,3 @@ transition: 0.3s;
   font-size: 13px;
   line-height: 25px;
 }
-#form-details .people div p span{
-  display:block;
-  font-size: 16px;
-  font-weight: 600;
-  color: #000;
-}
