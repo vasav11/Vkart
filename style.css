@@ -919,8 +919,3 @@ transition: 0.3s;
   object-fit: cover;
   margin-right: 15px;
 }
-#form-details .people div p{
-  margin: 0;
-  font-size: 13px;
-  line-height: 25px;
-}
